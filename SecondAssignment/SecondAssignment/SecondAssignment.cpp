@@ -1,14 +1,4 @@
-/****************************************************************************
-**					           SAKARYA ÜNÝVERSÝTESÝ
-**			         BÝLGÝSAYAR VE BÝLÝÞÝM BÝLÝMLERÝ FAKÜLTESÝ
-**				          BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ
-**				            PROGRAMLAMAYA GÝRÝÞÝ DERSÝ
-**
-**				     ÖDEV NUMARASI…...: 2
-**				     ÖÐRENCÝ ADI...............: Okan Koca
-**				     ÖÐRENCÝ NUMARASI.: B231210016
-**				     DERS GRUBU…………: C
-****************************************************************************/
+
 
 #include <iostream>
 #include <vector>
